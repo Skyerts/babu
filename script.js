@@ -120,4 +120,3 @@ restartBtn.addEventListener('click', () => {
   index = 0;
   showMessage(index);
 });
-
